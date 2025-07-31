@@ -1,0 +1,47 @@
+data,perfil,motivo_perda,emocao,clima,local_perda,frequencia_perda,modelo_perdido
+2024-01-15,Distraído,Esqueceu em casa,Neutro,Ensolarado,Casa,3,Clássico BIC
+2024-01-15,Impulsivo,Emprestou e não voltou,Eufórico,Ensolarado,Bar,5,Metálico Zippo
+2024-01-16,Distraído,Caiu do bolso,Preocupado,Chuvoso,Rua,4,Transparente Neon
+2024-01-16,Econômico,Quebrou,Irritado,Chuvoso,Trabalho,1,Clássico BIC
+2024-01-17,Impulsivo,Perdeu na festa,Feliz,Nublado,Festa,6,Metálico Zippo
+2024-01-17,Distraído,Esqueceu no carro,Cansado,Nublado,Carro,2,Eletrônico USB
+2024-01-18,Tecnológico,Defeito técnico,Frustrado,Ensolarado,Casa,1,Eletrônico USB
+2024-01-18,Distraído,Caiu na água,Neutro,Chuvoso,Praia,3,Transparente Neon
+2024-01-19,Impulsivo,Deu de presente,Generoso,Ensolarado,Parque,4,Metálico Zippo
+2024-01-19,Distraído,Esqueceu no restaurante,Relaxado,Nublado,Restaurante,5,Clássico BIC
+2024-01-20,Econômico,Gastou completamente,Satisfeito,Ensolarado,Casa,2,Clássico BIC
+2024-01-20,Impulsivo,Perdeu apostando,Arrependido,Nublado,Bar,7,Metálico Zippo
+2024-01-21,Distraído,Caiu do bolso,Distraído,Chuvoso,Ônibus,6,Transparente Neon
+2024-01-21,Tecnológico,Bateria acabou,Preocupado,Chuvoso,Trabalho,2,Eletrônico USB
+2024-01-22,Impulsivo,Emprestou e não voltou,Confiante,Ensolarado,Escola,5,Metálico Zippo
+2024-01-22,Distraído,Esqueceu na mesa,Sonolento,Nublado,Café,4,Clássico BIC
+2024-01-23,Econômico,Quebrou,Decepcionado,Ensolarado,Casa,1,Clássico BIC
+2024-01-23,Distraído,Caiu da mochila,Neutro,Chuvoso,Rua,3,Transparente Neon
+2024-01-24,Impulsivo,Perdeu jogando,Empolgado,Nublado,Casa de amigos,6,Metálico Zippo
+2024-01-24,Tecnológico,Problema no software,Irritado,Nublado,Escritório,1,Eletrônico USB
+2024-02-01,Distraído,Esqueceu no bloco,Animado,Ensolarado,Bloco de carnaval,8,Transparente Neon
+2024-02-01,Impulsivo,Deu para paquera,Apaixonado,Ensolarado,Festa,9,Metálico Zippo
+2024-02-02,Distraído,Caiu na multidão,Eufórico,Ensolarado,Rua,7,Clássico BIC
+2024-02-02,Econômico,Roubaram,Irritado,Nublado,Centro,2,Clássico BIC
+2024-02-03,Impulsivo,Perdeu na folia,Muito feliz,Ensolarado,Bloco,10,Metálico Zippo
+2024-02-03,Distraído,Esqueceu no camarote,Cansado,Nublado,Camarote,6,Transparente Neon
+2024-02-04,Tecnológico,Molhou na chuva,Preocupado,Chuvoso,Rua,3,Eletrônico USB
+2024-02-04,Distraído,Caiu do bolso,Distraído,Chuvoso,Táxi,4,Clássico BIC
+2024-02-05,Impulsivo,Trocou por bebida,Festivo,Ensolarado,Bar,8,Metálico Zippo
+2024-02-05,Distraído,Esqueceu no banheiro,Neutro,Nublado,Banheiro público,5,Transparente Neon
+2024-03-01,Econômico,Gastou completamente,Normal,Ensolarado,Casa,2,Clássico BIC
+2024-03-01,Distraído,Caiu da carteira,Desatento,Chuvoso,Shopping,3,Transparente Neon
+2024-03-02,Impulsivo,Emprestou para amigo,Sociável,Nublado,Universidade,4,Metálico Zippo
+2024-03-02,Tecnológico,Atualização com bug,Frustrado,Ensolarado,Casa,1,Eletrônico USB
+2024-03-03,Distraído,Esqueceu na academia,Cansado,Ensolarado,Academia,2,Clássico BIC
+2024-03-03,Impulsivo,Perdeu no show,Animado,Nublado,Show,7,Metálico Zippo
+2024-03-15,Econômico,Quebrou,Chateado,Chuvoso,Trabalho,1,Clássico BIC
+2024-03-15,Distraído,Caiu no metrô,Apressado,Nublado,Metrô,4,Transparente Neon
+2024-03-16,Impulsivo,Deu para mendigo,Compassivo,Ensolarado,Rua,3,Metálico Zippo
+2024-03-16,Tecnológico,Defeito de fábrica,Irritado,Ensolarado,Casa,1,Eletrônico USB
+2024-04-01,Distraído,Esqueceu no parque,Relaxado,Ensolarado,Parque,2,Clássico BIC
+2024-04-01,Impulsivo,Perdeu apostando,Competitivo,Nublado,Boteco,5,Metálico Zippo
+2024-04-02,Econômico,Gastou completamente,Satisfeito,Ensolarado,Casa,2,Clássico BIC
+2024-04-02,Distraído,Caiu da mesa,Desatento,Chuvoso,Escritório,3,Transparente Neon
+2024-04-03,Tecnológico,Problema na conexão,Impaciente,Nublado,Café,2,Eletrônico USB
+2024-04-03,Impulsivo,Trocou por lanche,Fome,Ensolarado,Lanchonete,4,Metálico Zippo

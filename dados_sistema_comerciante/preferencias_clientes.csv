@@ -1,0 +1,41 @@
+perfil,modelo_favorito,cor,acessorio,padrao_de_uso
+Econômico,Clássico BIC,Branco,Nenhum,Moderado
+Econômico,Clássico BIC,Azul,Nenhum,Moderado
+Econômico,Clássico BIC,Preto,Nenhum,Baixo
+Econômico,Clássico BIC,Vermelho,Nenhum,Moderado
+Econômico,Clássico BIC,Amarelo,Nenhum,Baixo
+Impulsivo,Metálico Zippo,Dourado,Cordão,Alto
+Impulsivo,Metálico Zippo,Prateado,Cordão,Alto
+Impulsivo,Metálico Zippo,Preto,Gravação,Muito Alto
+Impulsivo,Metálico Zippo,Vermelho,Gravação,Alto
+Impulsivo,Transparente Neon,Rosa,LED,Muito Alto
+Impulsivo,Transparente Neon,Verde,LED,Alto
+Impulsivo,Transparente Neon,Azul,LED,Alto
+Distraído,Transparente Neon,Amarelo,Cordão,Moderado
+Distraído,Transparente Neon,Laranja,Cordão,Moderado
+Distraído,Transparente Neon,Verde,GPS,Baixo
+Distraído,Clássico BIC,Branco,Cordão,Baixo
+Distraído,Clássico BIC,Azul,Cordão,Moderado
+Distraído,Eletrônico USB,Preto,GPS,Baixo
+Distraído,Eletrônico USB,Branco,GPS,Baixo
+Tecnológico,Eletrônico USB,Preto,Bluetooth,Moderado
+Tecnológico,Eletrônico USB,Branco,Bluetooth,Moderado
+Tecnológico,Eletrônico USB,Cinza,App,Alto
+Tecnológico,Eletrônico USB,Azul,App,Alto
+Tecnológico,Metálico Zippo,Prateado,Sensor,Moderado
+Tecnológico,Metálico Zippo,Preto,Sensor,Moderado
+Econômico,Clássico BIC,Verde,Nenhum,Baixo
+Econômico,Clássico BIC,Laranja,Nenhum,Moderado
+Impulsivo,Transparente Neon,Roxo,LED,Muito Alto
+Impulsivo,Metálico Zippo,Dourado,Gravação,Alto
+Distraído,Transparente Neon,Azul,Cordão,Moderado
+Distraído,Clássico BIC,Vermelho,Cordão,Baixo
+Tecnológico,Eletrônico USB,Vermelho,App,Alto
+Tecnológico,Eletrônico USB,Verde,Bluetooth,Moderado
+Econômico,Clássico BIC,Roxo,Nenhum,Baixo
+Impulsivo,Metálico Zippo,Azul,Gravação,Alto
+Impulsivo,Transparente Neon,Amarelo,LED,Muito Alto
+Distraído,Transparente Neon,Branco,GPS,Baixo
+Distraído,Eletrônico USB,Cinza,GPS,Baixo
+Tecnológico,Eletrônico USB,Laranja,Sensor,Moderado
+Tecnológico,Metálico Zippo,Cinza,Bluetooth,Alto

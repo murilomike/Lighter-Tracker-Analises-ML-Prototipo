@@ -1,0 +1,51 @@
+Context
+Base de Conhecimento LighterTracker
+Documentação do Sistema:
+
+Arquitetura técnica e diagramas de sistema
+Especificações de APIs e endpoints
+Modelos de Machine Learning utilizados
+Metodologias de análise comportamental
+Fluxos de dados e processamento
+
+Dados de Usuário:
+
+Padrões de uso de isqueiros
+Estatísticas de perda e reposição
+Comportamentos sazonais e temporais
+Preferências de produtos
+Histórico de interações
+
+Métricas Comerciais:
+
+Dados de vendas agregados
+Tendências de mercado
+Performance por região/produto
+Análises de ROI e conversão
+Insights de parceiros comerciais
+
+Recursos Visuais:
+
+Screenshots da interface com descrições
+Gráficos e visualizações de dados
+Fluxogramas de processos
+Dashboards e relatórios
+
+Perfis de Usuário Detalhados
+Usuário Final (Consumidor):
+
+Interesse em: Hábitos pessoais, estatísticas de uso, recomendações práticas
+Necessidades: Melhorar comportamentos, entender padrões, otimizar uso
+Comunicação: Informal, empática, focada em benefícios pessoais
+
+Comerciante (Vendedor/Parceiro):
+
+Interesse em: Insights de vendas, dados de mercado, oportunidades comerciais
+Necessidades: Decisões estratégicas, análises competitivas, otimização de estoque
+Comunicação: Profissional, orientada a resultados, focada em métricas
+
+Recrutador (Avaliador Técnico):
+
+Interesse em: Arquitetura do sistema, tecnologias utilizadas, complexidade técnica
+Necessidades: Avaliar competências técnicas, entender implementações, validar soluções
+Comunicação: Técnica, detalhada, focada em metodologias e algoritmos
