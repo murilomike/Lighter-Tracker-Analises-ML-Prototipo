@@ -1,0 +1,71 @@
+LighterTracker/
+│
+├── src/                → Scripts de ingestão, ETL, ML
+├── notebooks/          → EDA, regressão, classificação
+├── data/               → Bases fictícias/sintéticas
+├── models/             → Modelos salvos (.pkl)
+├── docs/               → Infográficos, diagramas e imagens do sistema
+├── dashboards/         → Dashboards exportáveis
+├── api/                → Flask ou FastAPI simples (simulando predição)
+├── README.md           → Explicação completa + instruções
+└── LICENSE             → Licença (MIT ou Creative Commons)
+
+
+LighterTracker/
+│
+├── README.md                    # Apresentação geral do projeto
+├── LICENSE                      # Licença do projeto (MIT sugerido)
+├── requirements.txt             # Dependências do projeto (para instalar via pip)
+├── .gitignore                   # Ignorar arquivos temporários e cache
+│
+├── notebooks/                   # 📓 Notebooks Jupyter principais
+│   ├── 1_geracao_base_sintetica.ipynb
+│   ├── 2_analise_exploratoria.ipynb
+│   ├── 3_modelo_regressao.ipynb
+│   ├── 4_modelo_classificacao.ipynb
+│   └── 5_comportamento_comerciante.ipynb
+│
+├── notebooks_readme/            # 📄 READMEs explicativos para cada notebook
+│   ├── README_1_geracao.md
+│   ├── README_2_exploratoria.md
+│   ├── README_3_regressao.md
+│   ├── README_4_classificacao.md
+│   └── README_5_comerciante.md
+│
+├── docs/                        # 📚 Documentação técnica
+│   ├── dicionario_de_dados.md       # Explicação das tabelas e campos SQL
+│   └── arquitetura_do_sistema.md   # Visão geral da stack, camadas, processos
+│
+├── nosql/                       # 🗃️ Estrutura de dados NoSQL (MongoDB/Firebase)
+│   ├── estrutura_mongodb.json      # Exemplo de documento para usuários
+│   ├── estrutura_comerciante.json  # Documento para comerciantes
+│   └── explicacao_nosql.md         # Como usar e propósito da base NoSQL
+│
+├── prototipos/                  # 🎨 Protótipos e prints do sistema
+│   ├── prototipo_atual/             # Última versão
+│   │   ├── imagens/
+│   │   └── codigo/
+│   └── prototipos_anteriores/
+│       ├── print_versao1.png
+│       └── codigo_versao1.txt
+│
+├── agente_telegram/             # 🤖 Código e estrutura do agente inteligente
+│   ├── bot.py
+│   ├── fluxo_do_agente.md
+│   └── exemplos_de_uso.md
+│
+├── apresentacao/                # 🖼️ Material para stakeholders
+│   ├── pitch_3_problemas_3_solucoes.pdf
+│   ├── roteiro_apresentacao.md
+│   └── video_prototipo.mp4 (ou link)
+│
+├── linkedin_divulgacao/         # 📣 Estratégia de divulgação
+│   ├── post_1_problema.md
+│   ├── post_2_exploracao.md
+│   ├── post_3_modelos.md
+│   ├── post_4_negocio.md
+│   └── post_5_lancamento.md
+│
+└── portfolio_curriculo/         # 📁 Versões do currículo e portfólio usados
+    ├── curriculo_dados_2025.pdf
+    └── portfolio_visual_lightertracker.pdf
