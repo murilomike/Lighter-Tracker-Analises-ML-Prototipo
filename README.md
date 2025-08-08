@@ -1,5 +1,5 @@
 ﻿
-# 🔥 LighterTracker - Projeto de Data Science Comportamental
+# 🔥 LighterTracker - Projeto de Data Science Comportamental.
 
 <div align="center">
   <img src="Lighter_Tracker\1.apresentacao\apresentação e pitch\1_LighterTracker.png" alt="Capa do projeto LighterTracker" width="600"/>
